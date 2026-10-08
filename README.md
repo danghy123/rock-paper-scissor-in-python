@@ -56,4 +56,4 @@ I reframed this problem as finding a way to make the game "repeatable" and reali
 2. Select the cell box and run it (either by manually selecting the option to run it or by using the hotkey SHIFT + ENTER).
 3. Make your guess within the input section.
 4. Decide if you want to continue playing or not.
-5. If you ever want to have another session of RPS, just re-run the cell box.
+5. If you ever want to have another session of RPS, just re-run the cell box like in Step 2.
